@@ -7,5 +7,6 @@ class Song
     @artist = artist
     @song = song
   end
+  
 end
     
